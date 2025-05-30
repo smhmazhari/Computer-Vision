@@ -1,0 +1,10 @@
+🔍 Image Compression Analysis
+----------------------------
+Format: JPEG
+Mode: RGB
+Size (pixels): (256, 256)
+Compression type: JPEG (lossy)
+Resolution: 256 x 256
+Header info: {'jfif': 257, 'jfif_version': (1, 1), 'jfif_unit': 0, 'jfif_density': (1, 1)}
+
+✅ This image is compressed using JPEG, a lossy compression algorithm that reduces file size by discarding some image details.
